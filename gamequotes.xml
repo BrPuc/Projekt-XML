@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Characters>
+    <Character id="1">
+        <Character>Death</Character>
+        <Game>Darksiders 2</Game>
+        <Quote>If its madness, then who better to show me the way?</Quote>
+    </Character>
+    <Character id="2">
+        <Character>War</Character>
+        <Game>Darksiders 1</Game>
+        <Quote>Has prison made you a coward?</Quote>
+    </Character>
+    <Character id="3">
+        <Character>Fury</Character>
+        <Game>Darksiders 3</Game>
+        <Quote>This is not real!</Quote>
+    </Character>
+    <Character id="4">
+        <Character>Strife</Character>
+        <Game>Darksiders Genesis</Game>
+        <Quote>It's not my place to question your wardrobe, but I still think your armor could use some more creepy faces on it.</Quote>
+    </Character>
+    <Character id="5">
+        <Character>Dante</Character>
+        <Game>Devil May Cry 3</Game>
+        <Quote>You want a date? Well, forget it. Because I make a point not to go out with women who shoot me in the head!</Quote>
+    </Character>
+    <Character id="6">
+        <Character>Vergil</Character>
+        <Game>Devil May Cry 3</Game>
+        <Quote>Why isn't this working? Is there something missing? Must more blood be shed?</Quote>
+    </Character>
+    <Character id="7">
+        <Character>Malenia</Character>
+        <Game>Elden ring</Game>
+        <Quote>I am Malenia. Blade of Miquella.</Quote>
+    </Character>
+    <Character id="8">
+        <Character>Narrator</Character>
+        <Game>Elden ring</Game>
+        <Quote>Arise now, ye Tarnished.</Quote>
+    </Character>
+    <Character id="9">
+        <Character>Maliketh</Character>
+        <Game>Elden ring</Game>
+        <Quote>O, Death. Become my blade, once more.</Quote>
+    </Character>
+    <Character id="10">
+        <Character>Rykard</Character>
+        <Game>Elden ring</Game>
+        <Quote>You... .join the Serpent King as family. Together, we will devour the very gods!</Quote>
+    </Character>
+    <Character id="11">
+        <Character>Godfrey</Character>
+        <Game>Elden ring</Game>
+        <Quote>Brave Tarnished... Thy strength befits a crown.</Quote>
+    </Character>
+    <Character id="12">
+        <Character>Mogh</Character>
+        <Game>Elden ring</Game>
+        <Quote>Miquella is mine and mine alone.</Quote>
+    </Character>
+</Characters>
